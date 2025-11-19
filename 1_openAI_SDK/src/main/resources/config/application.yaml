@@ -1,0 +1,7 @@
+# Application configuration
+application-name: gen_ai_training
+
+openai:
+    api-key: ${OPENAI_API_KEY}
+    base-url: https://api.openai.com/v1
+
